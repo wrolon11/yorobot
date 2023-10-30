@@ -5,11 +5,13 @@ const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
 const flownuevo = addKeyword(['1']).addAnswer([ '🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.',
-        'En un momento será transferido a uno de nuestros agentes 😊',])
+        'En un momento será transferido a uno de nuestros agentes 😊',
+        'Para iniciar, Por favor nos indica su nombre completo.'])
 
 
 const flowantiguo= addKeyword(['2']).addAnswer([ 'estimado cliente, nuestro 🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.',
-        'En un momento será transferido a uno de nuestros agentes 😊',])
+        'En un momento será transferido a uno de nuestros agentes 😊',
+        'Para iniciar, Por favor nos indica su nombre completo.'])
 
 
 const flowSI = addKeyword(['1']).addAnswer(
