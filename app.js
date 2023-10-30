@@ -4,20 +4,32 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
-const flowSecundario = addKeyword(['8', 'siguiente']).addAnswer(['📄 Aquí tenemos el flujo secundario'])
+const flownuevo = addKeyword(['1']).addAnswer([ '🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.',
+        'En un momento será transferido a uno de nuestros agentes 😊',])
 
-const flowSI = addKeyword(['1', 'aceptaacuerdo', 'aceptaacuerdo']).addAnswer(
+
+const flowantiguo= addKeyword(['2']).addAnswer([ 'estimado cliente, nuestro 🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.',
+        'En un momento será transferido a uno de nuestros agentes 😊',])
+
+
+const flowSI = addKeyword(['1']).addAnswer(
     [
-        '🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.',
-        'En un momento será transferido a uno de nuestros agentes 😊',
+        'Tipo cliente',
+         '*1*- Nuevo',
+         '*2*- Antiguo',
     
 
 
     ],
     null,
     null,
-    [flowSecundario]
+    [flownuevo],
+    [flowantiguo]
+
 )
+
+
+
 
 const flowNO = addKeyword(['2', 'tuto']).addAnswer(
     [
@@ -25,8 +37,8 @@ const flowNO = addKeyword(['2', 'tuto']).addAnswer(
        
     ],
     null,
-    null,
-    [flowSecundario]
+    null
+    
 )
 
 
@@ -37,8 +49,8 @@ const flowPrincipal = addKeyword(['hola', 'buenos dias', 'buenas tardes' , 'buen
             'Acepta la política de tratamiento de datos personales?😊',
             'Según  la ley 1581 de 2012 de protección de datos personales.',
 
-            '1 *SI*',
-            '2 *NO*',
+            '*1*- SI',
+            '*2*- NO',
         ],
         null,
         null,
