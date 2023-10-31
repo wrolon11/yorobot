@@ -27,7 +27,7 @@ const flowSI = addKeyword(['1']).addAnswer(
     [
         'Tipo cliente',
          '*1*- Nuevo',
-         '*2*- Antiguor',
+         '*2*- Antiguo',
     
 
 
