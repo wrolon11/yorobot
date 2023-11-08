@@ -2,15 +2,15 @@
   key: {
     remoteJid: '573142771306@s.whatsapp.net',
     fromMe: false,
-    id: '3EB02E6936028E81209147',
+    id: '3EB065F660E7EE934955FB',
     participant: undefined
   },
-  messageTimestamp: 1698723054,
+  messageTimestamp: 1699114156,
   pushName: 'Armando',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'hola',
+      text: 'perro',
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
     },
@@ -19,12 +19,12 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: 'hola',
+  body: 'perro',
   from: '573142771306'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_92bc98b9-ae34-4e7e-922f-b342c9987249',
-  keyword: 'key_cd78b19c-3513-4f4f-b352-587925979b21',
+  ref: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  keyword: 'key_c5e7dc2c-0365-48cf-a232-98ca1091b313',
   answer: '¡bienvenido a contabilidadmasfinanzas!👋',
   options: {
     media: null,
@@ -37,15 +37,15 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'da95cdeae37ae6f4815c24c8e6d7a319'
+  refSerialize: '907aab474a9421bfe3cc7e93ac9acefb'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_43e8cc80-e222-4cdf-b615-5f5ff1a6ae49',
-  keyword: 'ans_92bc98b9-ae34-4e7e-922f-b342c9987249',
+  ref: 'ans_6cd94201-2365-4655-8658-caeeca70e05c',
+  keyword: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
   answer: 'Acepta la política de tratamiento de datos personales?😊\n' +
-    'Según  la ley 1581 de 2012 de protección de datos personales.\n' +
-    '*1*- SI\n' +
-    '*2*- NO',
+    'Según la ley 1581 de 2012 de protección de datos personales.\n' +
+    '*1* - SI\n' +
+    '*2* - NO',
   options: {
     media: null,
     buttons: [],
@@ -57,16 +57,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '8d38a4f2d687dbe21b3ef0f0037d8c44'
+  refSerialize: 'd16889d77610b2a85d8c290922cd0108'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573142771306@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0E61007F085E230247F',
+    id: '3EB080FE3FB813DEE1594F',
     participant: undefined
   },
-  messageTimestamp: 1698723058,
+  messageTimestamp: 1699114160,
   pushName: 'Armando',
   broadcast: false,
   message: Message {
@@ -84,9 +84,9 @@
   from: '573142771306'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1f000ba3-5963-4cd5-b8be-086553e08da7',
-  keyword: 'key_890821f4-8953-49f5-9697-76fa383c9f61',
-  answer: 'Tipo cliente\n*1*- Nuevo\n*2*- Antiguor',
+  ref: 'ans_f6b52dc6-d8c5-4590-9cbc-2c39252c37c5',
+  keyword: 'key_3bbef8f8-9024-48cb-ad6d-ee979f9ea7e5',
+  answer: 'Tipo cliente\n*1*- Nuevo\n*2*- Antiguo',
   options: {
     media: null,
     buttons: [],
@@ -103,16 +103,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '819189f63e1a8a6f04e8c9193538e89a'
+  refSerialize: '75d0f9b6ec228eff966ac606ccb4b3cb'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573142771306@s.whatsapp.net',
     fromMe: false,
-    id: '3EB012D07E993AF4F55DC9',
+    id: '3EB07C5D2BBD03B8ED57D3',
     participant: undefined
   },
-  messageTimestamp: 1698723061,
+  messageTimestamp: 1699114166,
   pushName: 'Armando',
   broadcast: false,
   message: Message {
@@ -130,8 +130,8 @@
   from: '573142771306'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ee7e54a2-dad7-4ce4-b049-7a6ca2ee830a',
-  keyword: 'key_6c532588-cff7-484e-b145-dd696158edc7',
+  ref: 'ans_faf2d299-1df3-4724-826e-941b1f9ed0ea',
+  keyword: 'key_2b928294-b738-4493-832d-9b13bca3c09f',
   answer: 'estimado cliente, nuestro 🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.\n' +
     'En un momento será transferido a uno de nuestros agentes 😊\n' +
     'Para iniciar, Por favor nos indica su nombre completo.',
@@ -146,21 +146,21 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '66c0a17c41123b74dbe3aa516b3100ac'
+  refSerialize: 'f12fdf89766409d14d524da4564b1bc8'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573142771306@s.whatsapp.net',
     fromMe: false,
-    id: '3EB015F4B16A4CCBBA1865',
+    id: '3EB013974023BD920DFA6B',
     participant: undefined
   },
-  messageTimestamp: 1698723066,
+  messageTimestamp: 1699114171,
   pushName: 'Armando',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'hola',
+      text: 'perro',
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
     },
@@ -169,12 +169,12 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: 'hola',
+  body: 'perro',
   from: '573142771306'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_92bc98b9-ae34-4e7e-922f-b342c9987249',
-  keyword: 'key_cd78b19c-3513-4f4f-b352-587925979b21',
+  ref: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  keyword: 'key_c5e7dc2c-0365-48cf-a232-98ca1091b313',
   answer: '¡bienvenido a contabilidadmasfinanzas!👋',
   options: {
     media: null,
@@ -187,15 +187,15 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'da95cdeae37ae6f4815c24c8e6d7a319'
+  refSerialize: '907aab474a9421bfe3cc7e93ac9acefb'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_43e8cc80-e222-4cdf-b615-5f5ff1a6ae49',
-  keyword: 'ans_92bc98b9-ae34-4e7e-922f-b342c9987249',
+  ref: 'ans_6cd94201-2365-4655-8658-caeeca70e05c',
+  keyword: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
   answer: 'Acepta la política de tratamiento de datos personales?😊\n' +
-    'Según  la ley 1581 de 2012 de protección de datos personales.\n' +
-    '*1*- SI\n' +
-    '*2*- NO',
+    'Según la ley 1581 de 2012 de protección de datos personales.\n' +
+    '*1* - SI\n' +
+    '*2* - NO',
   options: {
     media: null,
     buttons: [],
@@ -207,16 +207,210 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '8d38a4f2d687dbe21b3ef0f0037d8c44'
+  refSerialize: 'd16889d77610b2a85d8c290922cd0108'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573142771306@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0F4F537B56B3D0B141C',
+    id: '3EB0D2C52CEE7D310F2BC8',
     participant: undefined
   },
-  messageTimestamp: 1698723069,
+  messageTimestamp: 1699114213,
+  pushName: 'Armando',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'prueba',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'prueba',
+  from: '573142771306'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142771306@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B1DD3D5A7C96B70C2D',
+    participant: undefined
+  },
+  messageTimestamp: 1699114217,
+  pushName: 'Armando',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'perro',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'perro',
+  from: '573142771306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  keyword: 'key_c5e7dc2c-0365-48cf-a232-98ca1091b313',
+  answer: '¡bienvenido a contabilidadmasfinanzas!👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '907aab474a9421bfe3cc7e93ac9acefb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cd94201-2365-4655-8658-caeeca70e05c',
+  keyword: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  answer: 'Acepta la política de tratamiento de datos personales?😊\n' +
+    'Según la ley 1581 de 2012 de protección de datos personales.\n' +
+    '*1* - SI\n' +
+    '*2* - NO',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd16889d77610b2a85d8c290922cd0108'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142771306@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB092E22A3118A898A588',
+    participant: undefined
+  },
+  messageTimestamp: 1699114222,
+  pushName: 'Armando',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'q',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'q',
+  from: '573142771306'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142771306@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB063B94D5E71EBB9C60F',
+    participant: undefined
+  },
+  messageTimestamp: 1699114224,
+  pushName: 'Armando',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573142771306'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142771306@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A9F7CBC595FC4AD9D9',
+    participant: undefined
+  },
+  messageTimestamp: 1699114234,
+  pushName: 'Armando',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'perro',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'perro',
+  from: '573142771306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  keyword: 'key_c5e7dc2c-0365-48cf-a232-98ca1091b313',
+  answer: '¡bienvenido a contabilidadmasfinanzas!👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '907aab474a9421bfe3cc7e93ac9acefb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cd94201-2365-4655-8658-caeeca70e05c',
+  keyword: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  answer: 'Acepta la política de tratamiento de datos personales?😊\n' +
+    'Según la ley 1581 de 2012 de protección de datos personales.\n' +
+    '*1* - SI\n' +
+    '*2* - NO',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd16889d77610b2a85d8c290922cd0108'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142771306@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07C74B2E463AFEB56D2',
+    participant: undefined
+  },
+  messageTimestamp: 1699114236,
   pushName: 'Armando',
   broadcast: false,
   message: Message {
@@ -234,9 +428,9 @@
   from: '573142771306'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1f000ba3-5963-4cd5-b8be-086553e08da7',
-  keyword: 'key_890821f4-8953-49f5-9697-76fa383c9f61',
-  answer: 'Tipo cliente\n*1*- Nuevo\n*2*- Antiguor',
+  ref: 'ans_f6b52dc6-d8c5-4590-9cbc-2c39252c37c5',
+  keyword: 'key_3bbef8f8-9024-48cb-ad6d-ee979f9ea7e5',
+  answer: 'Tipo cliente\n*1*- Nuevo\n*2*- Antiguo',
   options: {
     media: null,
     buttons: [],
@@ -253,169 +447,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '819189f63e1a8a6f04e8c9193538e89a'
+  refSerialize: '75d0f9b6ec228eff966ac606ccb4b3cb'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573142771306@s.whatsapp.net',
     fromMe: false,
-    id: '3EB036FE8AF2FCE2231813',
+    id: '3EB030E7DD32353E6089E2',
     participant: undefined
   },
-  messageTimestamp: 1698723072,
-  pushName: 'Armando',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '1',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '1',
-  from: '573142771306'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_faae8430-ecb2-46d0-9504-c96f9266241d',
-  keyword: 'key_ebc09d04-76a9-4102-ae9b-fd99ea753652',
-  answer: '🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'f9566ec318bd265beb15852ebb677e69'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_be2ab25c-d532-4fdd-9a9f-72860b6cd842',
-  keyword: 'ans_faae8430-ecb2-46d0-9504-c96f9266241d',
-  answer: 'En un momento será transferido a uno de nuestros agentes 😊',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '73f70f8fcf66713cad34a1072a128fc9'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_02b1c490-0370-41c8-8c6c-7057db2ef89e',
-  keyword: 'ans_be2ab25c-d532-4fdd-9a9f-72860b6cd842',
-  answer: 'Para iniciar, Por favor nos indica su nombre completo.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '7f278249b5867027dae88e03ee43db17'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fb55dcdb-3cd7-429d-83a6-88716a6bfaa5',
-  keyword: 'ans_02b1c490-0370-41c8-8c6c-7057db2ef89e',
-  answer: 'aqui va un audio',
-  options: {
-    media: 'cuna.mp3',
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'c9c2bbf7d2a9072e91fea4f064d6d1e8'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573142771306@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0C2411E4240D5576072',
-    participant: undefined
-  },
-  messageTimestamp: 1698723092,
-  pushName: 'Armando',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'hola',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'hola',
-  from: '573142771306'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_92bc98b9-ae34-4e7e-922f-b342c9987249',
-  keyword: 'key_cd78b19c-3513-4f4f-b352-587925979b21',
-  answer: '¡bienvenido a contabilidadmasfinanzas!👋',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'da95cdeae37ae6f4815c24c8e6d7a319'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_43e8cc80-e222-4cdf-b615-5f5ff1a6ae49',
-  keyword: 'ans_92bc98b9-ae34-4e7e-922f-b342c9987249',
-  answer: 'Acepta la política de tratamiento de datos personales?😊\n' +
-    'Según  la ley 1581 de 2012 de protección de datos personales.\n' +
-    '*1*- SI\n' +
-    '*2*- NO',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '8d38a4f2d687dbe21b3ef0f0037d8c44'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573142771306@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0B76557182742237D0C',
-    participant: undefined
-  },
-  messageTimestamp: 1698723095,
+  messageTimestamp: 1699114239,
   pushName: 'Armando',
   broadcast: false,
   message: Message {
@@ -433,9 +474,11 @@
   from: '573142771306'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_200eb417-5d23-4276-aeb9-54b1ae876d50',
-  keyword: 'key_3adc14fa-c281-4cfe-ab37-b093fe461e05',
-  answer: '😥 lo sentimos no dudes en escribirnos.',
+  ref: 'ans_faf2d299-1df3-4724-826e-941b1f9ed0ea',
+  keyword: 'key_2b928294-b738-4493-832d-9b13bca3c09f',
+  answer: 'estimado cliente, nuestro 🗓️Horario de atención: Lunes a Viernes 7:00-18:00, Sábados 08:00-12:00 Hora Colombia.\n' +
+    'En un momento será transferido a uno de nuestros agentes 😊\n' +
+    'Para iniciar, Por favor nos indica su nombre completo.',
   options: {
     media: null,
     buttons: [],
@@ -447,5 +490,66 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'dfeb7b56fbd796fe440038af757968cf'
+  refSerialize: 'f12fdf89766409d14d524da4564b1bc8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142771306@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0177BFD1ECFF6080096',
+    participant: undefined
+  },
+  messageTimestamp: 1699114242,
+  pushName: 'Armando',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'perro',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'perro',
+  from: '573142771306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  keyword: 'key_c5e7dc2c-0365-48cf-a232-98ca1091b313',
+  answer: '¡bienvenido a contabilidadmasfinanzas!👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '907aab474a9421bfe3cc7e93ac9acefb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cd94201-2365-4655-8658-caeeca70e05c',
+  keyword: 'ans_339af7ee-d8e6-4b66-9afa-58fbc7dbc036',
+  answer: 'Acepta la política de tratamiento de datos personales?😊\n' +
+    'Según la ley 1581 de 2012 de protección de datos personales.\n' +
+    '*1* - SI\n' +
+    '*2* - NO',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd16889d77610b2a85d8c290922cd0108'
 }
