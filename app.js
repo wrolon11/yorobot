@@ -52,7 +52,7 @@ const flowNO = addKeyword(['2', 'no']).addAnswer(
 )
 
 
-const flowPrincipal = addKeyword(['hola', 'buenos dias', 'buenas tardes' , 'buenas noches', 'Hola','Buenos dias','Buenas tardes','Buenas Noches'])
+const flowPrincipal = addKeyword(['hola', 'buenos dias', 'buenos días', 'Buenos días', 'buenas tardes' , 'buenas noches', 'Hola','Buenos dias','Buenas tardes','Buenas Noches'])
     .addAnswer('¡bienvenido a contabilidadmasfinanzas!👋')
     .addAnswer(
         [
